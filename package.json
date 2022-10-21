@@ -1,0 +1,23 @@
+{
+  "name": "basic_informational_site",
+  "version": "1.0.0",
+  "description": "Very basic site using node.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meisREAL/Basic_informational_site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meisREAL/Basic_informational_site/issues"
+  },
+  "homepage": "https://github.com/meisREAL/Basic_informational_site#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
